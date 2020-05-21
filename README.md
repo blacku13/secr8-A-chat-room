@@ -1,3 +1,3 @@
-# Project 2
+# secr8 - a chat room
 
-Web Programming with Python and JavaScript
+Python and JavaScript
