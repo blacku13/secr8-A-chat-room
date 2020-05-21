@@ -1,3 +1,3 @@
-# secr8 - a chat room
+# SECR8 - a chat room
 
 Python and JavaScript
