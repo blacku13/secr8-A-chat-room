@@ -1,7 +1,9 @@
 # Secr8
 
-Slack-like clone using python and javascript
+Slack-like clone using python and javascript\
+\
 
+![](demo.gif)
 ### Contents
 You will find all client side code in static/script.js \
 All server side code in application.py \
