@@ -1,7 +1,6 @@
 # Secr8
 
-Slack-like clone using python and javascript\
-\
+Slack-like clone using python and javascript
 
 ![](demo.gif)
 ### Contents
