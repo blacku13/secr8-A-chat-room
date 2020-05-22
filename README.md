@@ -3,6 +3,18 @@
 Slack-like clone using python and javascript
 
 ![](demo.gif)
+
+### Installation
+
+Run the below command to install all packages:
+```
+pip install -r requirements.txt
+```
+
+### Running
+
+Please run application.py by using `python application.py` instead of `flask run`. Running `flask run` will get a `ValueError: signal only works in main thread` as by [Flask-SocketIO issue](https://github.com/miguelgrinberg/Flask-SocketIO/issues/817)
+
 ### Contents
 You will find all client side code in static/script.js \
 All server side code in application.py \
